@@ -9,3 +9,11 @@ Currently, two official plugins are available:
 
 # Demo
 https://text-analyzer-reactjs.netlify.app/
+
+# Features
+- Words counter
+- Sentences counter
+- Characters counter
+- Paragraphs counter
+- Longest word tracker
+- Active selection of text area ( so user can just start typing )
