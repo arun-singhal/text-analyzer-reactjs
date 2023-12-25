@@ -17,3 +17,8 @@ https://text-analyzer-reactjs.netlify.app/
 - Paragraphs counter
 - Longest word tracker
 - Active selection of text area ( so user can just start typing )
+
+# Concepts Used
+- useState
+- useRef
+- useEffect
